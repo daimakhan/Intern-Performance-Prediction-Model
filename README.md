@@ -1,1 +1,3 @@
 # Intern-Performance-Prediction-Model
+
+This project aims to predict employee performance using machine learning in a simple and practical way. It starts by loading and cleaning a dataset, then focuses on key details like how long someone has worked at the company, their salary, and their weekly work hours. Using this information, two popular models—Random Forest and XGBoost—are trained to make predictions. The results are checked using accuracy scores and visual graphs to compare real vs. predicted performance. Finally, the project highlights which factors matter most in determining how well an employee performs.
